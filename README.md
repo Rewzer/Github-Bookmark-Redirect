@@ -1,6 +1,6 @@
 # GitHub Bookmark Redirect
 
-This small script solves an issue where the GitHub bookmark favicon is not clearly visible for Firefox users with dark mode enabled.
+This small script solves an issue where the GitHub bookmark favicon is not clearly visible with dark mode enabled.
 
 The script is a local HTML page that uses a white GitHub icon and automatically redirects to GitHub.
 
@@ -20,11 +20,13 @@ To make this work:
 
 - Copy the full path of the `index.html` file.
 
-- In Firefox, go to Bookmarks > Manage Bookmarks or press `Ctrl + Shift + O`.
+- In Firefox, go to ≡ > Bookmarks > Manage Bookmarks or press `Ctrl + Shift + O`.
 
-- Navigate to the location where you want the bookmark, right-click, and select **Add Bookmark...**
+- In Chrome, go to More ⋮ > Bookmarks and lists > Bookmark Manager or press `Ctrl + Shift + O`.
 
-- Paste the file path into the URL field.
+- Navigate to the location where you want the bookmark, right-click, and select **Add Bookmark...** in Firefox, or **Add new bookmark** in Chrome
+
+- Type `file://` and then paste the file path into the URL field.
 
 > You can set any Name, Tags, or Keyword you prefer.
 
