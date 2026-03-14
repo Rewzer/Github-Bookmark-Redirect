@@ -30,4 +30,4 @@ To make this work:
 
 > You can set any Name, Tags, or Keyword you prefer.
 
-- Save.
+- Save, and restart your browser
